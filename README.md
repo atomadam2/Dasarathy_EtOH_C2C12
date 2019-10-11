@@ -9,3 +9,4 @@ C2C12 murine myoblasts (ATCC; CRL 1772) were grown to confluence in proliferatio
 
 Total RNA was extracted, libraries generated and sequenced, and bioinformatics analyses were performed by Novogene Inc. Using their standard pipeline for mouse transcriptome studies reads were aligned using theTopHat2. Gene expression was quantified by HTseq v0.6.1.
 
+Dasarathy_EtOH_C2C12_counts.txt - contains all count data for all genes.
